@@ -14,6 +14,15 @@
 
 ---
 
+### ðŸ† My GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=1nsharma&theme=tokyonight&no-frame=false&margin-w=15&no-bg=false" alt="1nsharma Trophies" />
+  </a>
+</p>
+
+---
+
 ### ðŸš€ About Me
 I am a passionate developer focused on building high-performance scalable web applications. My goal is to bridge the gap between complex backend logic and seamless user experiences.
 
@@ -23,13 +32,58 @@ I am a passionate developer focused on building high-performance scalable web ap
 
 ---
 
+### ðŸ† My GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=1nsharma&theme=tokyonight&no-frame=false&margin-w=15&no-bg=false" alt="1nsharma Trophies" />
+  </a>
+</p>
+
+---
+
 ### ðŸ› ï¸ The Power House (Tech Stack)
 
 | **Frontend** | **Backend** | **Tools & DevOps** |
-| :--- | :--- | :--- |
+| :---
+
+### ðŸ† My GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=1nsharma&theme=tokyonight&no-frame=false&margin-w=15&no-bg=false" alt="1nsharma Trophies" />
+  </a>
+</p>
+
+--- | :---
+
+### ðŸ† My GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=1nsharma&theme=tokyonight&no-frame=false&margin-w=15&no-bg=false" alt="1nsharma Trophies" />
+  </a>
+</p>
+
+--- | :---
+
+### ðŸ† My GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=1nsharma&theme=tokyonight&no-frame=false&margin-w=15&no-bg=false" alt="1nsharma Trophies" />
+  </a>
+</p>
+
+--- |
 | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
 | ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-Postgres-336791?style=flat-square&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+
+---
+
+### ðŸ† My GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=1nsharma&theme=tokyonight&no-frame=false&margin-w=15&no-bg=false" alt="1nsharma Trophies" />
+  </a>
+</p>
 
 ---
 
@@ -40,6 +94,15 @@ I am a passionate developer focused on building high-performance scalable web ap
 - ðŸ› ï¸ [**Utility Scripts**](./scripts) - My personal collection of automation tools.
 - ðŸ“š [**Design Patterns Cheat Sheet**](https://refactoring.guru/design-patterns) - Master software architecture.
 - ðŸ’¾ [**Open Datasets**](https://github.com/awesomedata/awesome-public-datasets) - A curated list of topic-centric public data.
+
+---
+
+### ðŸ† My GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=1nsharma&theme=tokyonight&no-frame=false&margin-w=15&no-bg=false" alt="1nsharma Trophies" />
+  </a>
+</p>
 
 ---
 
@@ -55,12 +118,30 @@ I am a passionate developer focused on building high-performance scalable web ap
 
 ---
 
+### ðŸ† My GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=1nsharma&theme=tokyonight&no-frame=false&margin-w=15&no-bg=false" alt="1nsharma Trophies" />
+  </a>
+</p>
+
+---
+
 ### ðŸ”¥ Latest Activity
 <!-- START_SECTION:activity -->
 1. ðŸš€ Opened PR in [1nsharma/1nsharma](https://github.com/1nsharma/1nsharma)
 2. ðŸ“¦ Created repository [github-achievements](https://github.com/1nsharma/github-achievements-20260430-0256)
 3. ðŸ† Unlocked 4 new achievements!
 <!-- END_SECTION:activity -->
+
+---
+
+### ðŸ† My GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=1nsharma&theme=tokyonight&no-frame=false&margin-w=15&no-bg=false" alt="1nsharma Trophies" />
+  </a>
+</p>
 
 ---
 
