@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/Assets/Work%20Culture%20(HD%20Visuals)/Pro%20Coder.gif?raw=true" width="400" />
+</p>
+
+<p align="center">
   <a href="https://github.com/1nsharma">
     <img src="https://img.shields.io/github/followers/1nsharma?label=NETWORK&style=for-the-badge&color=00FFD1&logo=github&logoColor=black" />
   </a>
@@ -15,8 +19,19 @@
 
 ---
 
+### ðŸ† MY TROPHIES
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=1nsharma&theme=tokyonight&no-frame=false&margin-w=15&no-bg=false" alt="1nsharma Trophies" />
+</p>
+
+---
+
 ### ðŸŒ‘ THE ARCHITECT'S VISION
 I don't just write code; I design ecosystems. My work sits at the intersection of **Scalable Systems**, **Artificial Intelligence**, and **Exceptional UX**.
+
+<p align="right">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/Assets/Work%20Culture%20(HD%20Visuals)/Development%20Time.gif?raw=true" width="200" />
+</p>
 
 - ðŸŽ¯ **2026 FOCUS:** Mastering Autonomous AI Agents & Distributed Ledger Systems.
 - ðŸ”­ **PROJECT ZERO:** Building a decentralized AI-orchestration engine.
@@ -52,6 +67,21 @@ I don't just write code; I design ecosystems. My work sits at the intersection o
 
 ---
 
+### ðŸ¤ CONNECT WITH ME
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/Assets/Animated%20Social%20Icons/Gmail.gif?raw=true" width="40" height="40" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/Assets/Animated%20Social%20Icons/LinkedIn.gif?raw=true" width="40" height="40" />
+  </a>
+  <a href="https://twitter.com/your-handle">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/Assets/Animated%20Social%20Icons/Twitter.gif?raw=true" width="40" height="40" />
+  </a>
+</p>
+
+---
+
 ### ðŸ“‚ CLASSIFIED RESOURCES (FOR VISITORS)
 | RESOURCE | DESCRIPTION | LINK |
 | :--- | :--- | :--- |
@@ -67,6 +97,10 @@ I don't just write code; I design ecosystems. My work sits at the intersection o
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=1nsharma&color=00FFD1&style=for-the-badge&label=DATA_ACCESS_LOGS" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/Assets/Extra%20Value%20Added/Fading%20Line.gif?raw=true" width="100%" />
 </p>
 
 <p align="center">
