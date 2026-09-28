@@ -1,76 +1,47 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=320&section=header&text=AMIT%20SHARMA&fontSize=80&desc=%F0%9F%9A%80%20Founder%20%7C%20AI%20Systems%20Architect%20%7C%20Impact%20Entrepreneur&descSize=25&descAlignY=65&animation=fadeIn" />
-</p>
+# Amit Sharma
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFD1&center=true&vCenter=true&width=650&lines=BUILDING+DIGITAL+INFRASTRUCTURE+FOR+BHARAT;AI+ORCHESTRATION+AT+SCALE;FOUNDER+OF+DUKAANMITRA" alt="Typing SVG" />
-</p>
+**Founder & Product Engineer building AI-native business systems for Indian SMBs.**
 
----
+I build and ship software across AI, automation, SaaS, and multi-tenant systems — with a focus on turning operational workflows into usable products.
 
-### ðŸ‘¤ THE ELEVATOR PITCH
-I am a **Full-Stack AI Architect** and **Founder** dedicated to solving large-scale problems through technology. I specialize in building "WhatsApp-First" ecosystems that bring advanced AI to the grassroots level of India's retail sector.
+## Flagship
 
-- ðŸ“ˆ **Impact:** Digitized **10,000+** Kirana stores through DukaanMitra.
-- ðŸ›ï¸ **Scalability:** Architected **JanSunwai 2.0** to handle **1M+** citizen grievances.
-- ðŸ› ï¸ **Expertise:** Next.js 14, GenAI Orchestration, Multi-tenant Architecture.
+### [DukaanMitra](https://github.com/1nsharma/DukaanMitra)
+**WhatsApp-first business operating system for Indian small retailers.**
 
----
+DukaanMitra explores an event-driven architecture where WhatsApp acts as a primary input channel for retail workflows such as ledger operations, customer communication, and business automation.
 
-### ðŸš€ PROOF OF WORK (KEY PROJECTS)
+**Current public repository:** event-driven core and WhatsApp input architecture.
 
-#### ðŸ›’ [DukaanMitra](https://dukaanmitra.in) - AI-Powered WhatsApp Munim
-*SaaS for Indian Retailers*
-- **Outcome:** Reduced payment defaults by **40%** through automated WhatsApp reminders.
-- **Tech:** Next.js, Firebase Genkit, Meta Cloud API, OpenAI.
-- **Role:** End-to-end Architecture & Product Vision.
+## Selected Engineering Work
 
-#### âš–ï¸ [JanSunwai 2.0](https://github.com/1nsharma/JanSunwai) - Gov-Tech AI
-*Public Grievance Redressal System*
-- **Outcome:** Real-time categorization and routing of **1M+** complaints.
-- **Tech:** Multi-tenant Firestore, Node.js, AI Classification Agents.
+### [SolarHub](https://github.com/1nsharma/solar-hub)
+Solar marketplace and service-network platform with web admin, mobile, backend, shared packages, lead workflows, event handling, and automated tests.
 
----
+### [PetJanu](https://github.com/1nsharma/Petsjanu.com)
+Pet identity and safety platform exploring QR/NFC identity, lost-pet workflows, AI assistance, payments, authentication, and privacy-aware contact flows.
 
-### ðŸ› ï¸ TECHNICAL ARSENAL (CURATED)
+### [Qrie / AI-QR](https://github.com/1nsharma/AI-QR)
+AI-assisted review workflow for local businesses: QR entry, rating capture, private feedback, review drafting, editing, and Google review handoff.
 
-| **Domain** | **Technologies** |
-| :--- | :--- |
-| **Full Stack** | Next.js, React, TypeScript, Tailwind CSS, Redux |
-| **AI & Data** | OpenAI, TensorFlow, Python, Firebase Genkit |
-| **Cloud & Ops** | AWS, GCP, Docker, Kubernetes, CI/CD Actions |
-| **Database** | PostgreSQL, Firestore, Supabase, MongoDB |
+## Research & Experiments
 
----
+- **[Sentinel Protocol](https://github.com/1nsharma/sentinel-protocol)** — experimental research prototype exploring digital provenance, media integrity, entropy-based signals, and cryptographic signing.
+- **[Mowglai](https://github.com/1nsharma/mowglai)** — interactive frontend/3D experience using Next.js, Three.js, GSAP, and modern web performance techniques.
 
-### ðŸ“Š DATA-DRIVEN CONSISTENCY (STATS)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1nsharma&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1nsharma&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+## Engineering Approach
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1nsharma&theme=tokyonight&area=true&hide_border=true" width="100%" />
-</p>
+- Product before architecture theatre.
+- Deterministic systems where correctness matters.
+- AI with explicit boundaries, evidence, and failure handling.
+- Multi-tenant systems with security considered from the beginning.
+- Tests and operational evidence over unsupported claims.
+- Metrics are published only when they have been measured.
 
----
+## Product Status
 
-### ðŸ—ï¸ OPEN SOURCE & CONTRIBUTIONS
-<p align="center">
-  <img src="https://raw.githubusercontent.com/1nsharma/1nsharma/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+I distinguish between **built**, **deployed**, **piloted**, and **measured**. Where real-world metrics are not yet available, they are marked **Not yet measured** rather than estimated.
 
----
+## Contact
 
-### ðŸ“¬ GET IN TOUCH
-- ðŸŒ **Website:** [dukaanmitra.in](https://dukaanmitra.in)
-- ðŸ“§ **Email:** [amit@dukaanmitra.in](mailto:amit@dukaanmitra.in)
-- ðŸ’¼ **LinkedIn:** [In/AmitSharma](https://linkedin.com/in/your-profile)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1nsharma&color=00FFD1&style=for-the-badge&label=PORTFOLIO_VIEWS" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFD1&height=100&section=footer" />
-</p>
+- GitHub: [@1nsharma](https://github.com/1nsharma)
