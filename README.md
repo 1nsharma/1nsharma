@@ -1,46 +1,49 @@
 # Amit Sharma
 
-**Founder & Product Engineer building AI-native business systems for Indian SMBs.**
+**AEMY — AI Systems Engineer & Independent Technology Builder**
 
-I build and ship software across AI, automation, SaaS, and multi-tenant systems — with a focus on turning operational workflows into usable products.
+I build AI-native software, intelligent business systems, and secure engineering infrastructure. My work spans AI engineering, agentic workflows, explainable AI, multi-tenant SaaS, automation, and open-source software.
 
-## Flagship
+## Flagship Product
 
-### [DukaanMitra](https://github.com/1nsharma/DukaanMitra)
-**WhatsApp-first business operating system for Indian small retailers.**
+### [DukaanMitra OS](https://github.com/1nsharma/Dukaanmitra-MitraOS)
 
-DukaanMitra explores an event-driven architecture where WhatsApp acts as a primary input channel for retail workflows such as ledger operations, customer communication, and business automation.
+A WhatsApp-first, AI-assisted business operating system for Indian small retailers. The public repository documents the product direction, retail workflows, and machine-readable product knowledge.
 
-**Current public repository:** event-driven core and WhatsApp input architecture.
-
-## Selected Engineering Work
+## Selected Public Engineering Work
 
 ### [SolarHub](https://github.com/1nsharma/solar-hub)
-Solar marketplace and service-network platform with web admin, mobile, backend, shared packages, lead workflows, event handling, and automated tests.
+Solar marketplace and service-network platform with web admin, mobile, backend, shared packages, and workflow automation.
 
-### [PetJanu](https://github.com/1nsharma/Petsjanu.com)
-Pet identity and safety platform exploring QR/NFC identity, lost-pet workflows, AI assistance, payments, authentication, and privacy-aware contact flows.
+### [Sentinel Protocol](https://github.com/1nsharma/sentinel-protocol)
+Experimental research prototype exploring digital provenance, media integrity, entropy-based signals, and cryptographic signing.
 
-### [Qrie / AI-QR](https://github.com/1nsharma/AI-QR)
-AI-assisted review workflow for local businesses: QR entry, rating capture, private feedback, review drafting, editing, and Google review handoff.
+### [Mowglai](https://github.com/1nsharma/mowglai)
+Interactive frontend and 3D web experience exploring modern graphics, animation, and performance techniques.
 
-## Research & Experiments
+## Engineering & Research Focus
 
-- **[Sentinel Protocol](https://github.com/1nsharma/sentinel-protocol)** — experimental research prototype exploring digital provenance, media integrity, entropy-based signals, and cryptographic signing.
-- **[Mowglai](https://github.com/1nsharma/mowglai)** — interactive frontend/3D experience using Next.js, Three.js, GSAP, and modern web performance techniques.
+- AI systems, agentic workflows, and explainable AI.
+- Secure software architecture and sandbox-first development.
+- Multi-tenant SaaS, automation, and business operating systems.
+- Open-source engineering and developer infrastructure.
+- Evidence-based validation, testing, and operational reliability.
 
-## Engineering Approach
+## Engineering Principles
 
-- Product before architecture theatre.
+- Evidence before claims.
 - Deterministic systems where correctness matters.
-- AI with explicit boundaries, evidence, and failure handling.
-- Multi-tenant systems with security considered from the beginning.
-- Tests and operational evidence over unsupported claims.
-- Metrics are published only when they have been measured.
+- AI with explicit boundaries, observable behavior, and failure handling.
+- Security and tenant isolation from the beginning.
+- Distinguish clearly between built, deployed, piloted, and measured.
+- Publish metrics only when they have been measured.
 
-## Product Status
+## Organization & Writing
 
-I distinguish between **built**, **deployed**, **piloted**, and **measured**. Where real-world metrics are not yet available, they are marked **Not yet measured** rather than estimated.
+- **1nsharma-labs:** [Independent engineering organization](https://github.com/1nsharma-labs)
+- **Engineering Universe:** [Organization portfolio repository](https://github.com/1nsharma-labs/1nsharma-labs)
+- **DEV Community:** [@ameyinsisde](https://dev.to/ameyinsisde)
+- **LinkedIn:** [Amit Sharma](https://in.linkedin.com/in/amitsharmaakaaemydukaanmitra)
 
 ## Contact
 
