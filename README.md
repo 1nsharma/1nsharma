@@ -1,50 +1,58 @@
-# Amit Sharma
+<div align="center">
 
-**AEMY — AI Systems Engineer & Independent Technology Builder**
+# Hey, I'm Amit Sharma (1nsharma)
 
-I build AI-native software, intelligent business systems, and secure engineering infrastructure. My work spans AI engineering, agentic workflows, explainable AI, multi-tenant SaaS, automation, and open-source software.
+### Full-Stack AI Developer - Open Source Builder - India-first Products
 
-## Flagship Product
+[![GitHub followers](https://img.shields.io/github/followers/1nsharma?style=social)](https://github.com/1nsharma)
+[![Profile Views](https://komarev.com/ghpvc/?username=1nsharma&color=blueviolet)](https://github.com/1nsharma)
 
-### [DukaanMitra OS](https://github.com/1nsharma/Dukaanmitra-MitraOS)
+</div>
 
-A WhatsApp-first, AI-assisted business operating system for Indian small retailers. The public repository documents the product direction, retail workflows, and machine-readable product knowledge.
+---
 
-## Selected Public Engineering Work
+## What I'm Building
 
-### [SolarHub](https://github.com/1nsharma/solar-hub)
-Solar marketplace and service-network platform with web admin, mobile, backend, shared packages, and workflow automation.
+| Project | Description | Status |
+|---------|-------------|--------|
+| [DukaanMitra](https://github.com/1nsharma/Dukaanmitra-MitraOS) | AI-powered business OS for Indian SMBs | Active |
+| [Solar Hub](https://github.com/1nsharma/solar-hub) | Rooftop solar marketplace for India | Active |
+| [Mowglai](https://github.com/Div0011/mowglai) | AI Company OS with virtual coworkers | Active |
+| [PetsJanu](https://github.com/1nsharma/Petsjanu.com) | Pet care marketplace platform | Building |
+| [HireSaathi](https://github.com/1nsharma/hiresaathi) | AI hiring platform for India | Building |
+| [AlgoYouTube OS](https://github.com/1nsharma-labs/algoyoutube-os) | AI content intelligence for creators | Active |
 
-### [Sentinel Protocol](https://github.com/1nsharma/sentinel-protocol)
-Experimental research prototype exploring digital provenance, media integrity, entropy-based signals, and cryptographic signing.
+---
 
-### [Mowglai](https://github.com/1nsharma/mowglai)
-Interactive frontend and 3D web experience exploring modern graphics, animation, and performance techniques.
+## Tech Stack
 
-## Engineering & Research Focus
+**Frontend:** React - Next.js - TypeScript - TailwindCSS - Three.js
+**Backend:** Node.js - Python - Firebase - Supabase - PostgreSQL
+**AI/ML:** Gemini - LangChain - RAG - Vector DBs - MCP
+**DevOps:** Vercel - Cloud Run - Docker - GitHub Actions
 
-- AI systems, agentic workflows, and explainable AI.
-- Secure software architecture and sandbox-first development.
-- Multi-tenant SaaS, automation, and business operating systems.
-- Open-source engineering and developer infrastructure.
-- Evidence-based validation, testing, and operational reliability.
+---
 
-## Engineering Principles
+## GitHub Stats
 
-- Evidence before claims.
-- Deterministic systems where correctness matters.
-- AI with explicit boundaries, observable behavior, and failure handling.
-- Security and tenant isolation from the beginning.
-- Distinguish clearly between built, deployed, piloted, and measured.
-- Publish metrics only when they have been measured.
+<div align="center">
 
-## Organization & Writing
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1nsharma&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1nsharma&layout=compact&theme=radical&hide_border=true)
 
-- **1nsharma-labs:** [Independent engineering organization](https://github.com/1nsharma-labs)
-- **Engineering Universe:** [Organization portfolio repository](https://github.com/1nsharma-labs/1nsharma-labs)
-- **DEV Community:** [@ameyinsisde](https://dev.to/ameyinsisde)
-- **LinkedIn:** [Amit Sharma](https://in.linkedin.com/in/amitsharmaakaaemydukaanmitra)
+</div>
 
-## Contact
+---
 
-- GitHub: [@1nsharma](https://github.com/1nsharma)
+## Organizations
+
+- [1nsharma-labs](https://github.com/1nsharma-labs) - Open-source AI & tech projects
+- [Div0011 / Mowglai](https://github.com/Div0011) - AI Company OS Platform
+
+---
+
+<div align="center">
+
+**Building the future of India-first AI products, one commit at a time**
+
+</div>
