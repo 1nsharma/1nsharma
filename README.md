@@ -1,58 +1,30 @@
-<div align="center">
+# Amit Sharma (Aemy / @1nsharma)
 
-# Hey, I'm Amit Sharma (1nsharma)
-
-### Full-Stack AI Developer - Open Source Builder - India-first Products
-
-[![GitHub followers](https://img.shields.io/github/followers/1nsharma?style=social)](https://github.com/1nsharma)
-[![Profile Views](https://komarev.com/ghpvc/?username=1nsharma&color=blueviolet)](https://github.com/1nsharma)
-
-</div>
+**AI Systems Builder & Full-Stack Engineer** — Kanpur, India.  
+Building open-source developer tools and WhatsApp-first business rails for Indian SMBs. Context over hype.
 
 ---
 
-## What I'm Building
+### What I'm Focused On
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| [DukaanMitra](https://github.com/1nsharma/Dukaanmitra-MitraOS) | AI-powered business OS for Indian SMBs | Active |
-| [Solar Hub](https://github.com/1nsharma/solar-hub) | Rooftop solar marketplace for India | Active |
-| [Mowglai](https://github.com/Div0011/mowglai) | AI Company OS with virtual coworkers | Active |
-| [PetsJanu](https://github.com/1nsharma/Petsjanu.com) | Pet care marketplace platform | Building |
-| [HireSaathi](https://github.com/1nsharma/hiresaathi) | AI hiring platform for India | Building |
-| [AlgoYouTube OS](https://github.com/1nsharma-labs/algoyoutube-os) | AI content intelligence for creators | Active |
+| Project | What It Actually Does | Stack |
+| :--- | :--- | :--- |
+| [**SLASH**](https://github.com/1nsharma/SLASH) | Turns public URLs (`Urlmind`), GitHub repos, and API/DB schemas into one connected architecture map and runnable app bundle. | Next.js, TypeScript, React Flow, Docker, Ollama |
+| [**DukaanMitra / MitraOS**](https://github.com/1nsharma/Dukaanmitra-MitraOS) | Event-driven, WhatsApp-first CRM and deterministic ledger built for Indian retail without monthly SaaS bloat. | TypeScript, Node.js, PostgreSQL, Redis, WhatsApp API |
 
 ---
 
-## Tech Stack
-
-**Frontend:** React - Next.js - TypeScript - TailwindCSS - Three.js
-**Backend:** Node.js - Python - Firebase - Supabase - PostgreSQL
-**AI/ML:** Gemini - LangChain - RAG - Vector DBs - MCP
-**DevOps:** Vercel - Cloud Run - Docker - GitHub Actions
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1nsharma&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1nsharma&layout=compact&theme=radical&hide_border=true)
-
-</div>
+### Core Stack
+- **Systems & Backend:** TypeScript, Node.js, Python, PostgreSQL, Redis, Supabase, Docker
+- **Frontend:** Next.js (App Router), React, Tailwind CSS, Flutter
+- **AI & Automation:** Gemini API, Ollama (local LLMs), Model Context Protocol (MCP), n8n
+- **Growth:** Technical SEO, AEO, GEO
 
 ---
 
-## Organizations
+### Work With Me / Inbound
+I build custom AI automation pipelines, MCP integrations, and zero-bloat WhatsApp/web systems for founders and SMBs.
 
-- [1nsharma-labs](https://github.com/1nsharma-labs) - Open-source AI & tech projects
-- [Div0011 / Mowglai](https://github.com/Div0011) - AI Company OS Platform
-
----
-
-<div align="center">
-
-**Building the future of India-first AI products, one commit at a time**
-
-</div>
+- **Org:** [github.com/1nsharma-labs](https://github.com/1nsharma-labs)
+- **Email:** amitsharma99976@gmail.com
+- **Support Open Source:** [polar.sh/1nsharma-labs](https://polar.sh/1nsharma-labs)
